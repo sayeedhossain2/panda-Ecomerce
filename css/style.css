@@ -5,6 +5,15 @@
 .categories img {
   width: 110px;
 }
+.categories h1 {
+  color: white;
+}
+.bg-purple {
+  background-color: orchid;
+}
+.bg-blue {
+  background-color: blue;
+}
 
 .panda-btn-primary {
   background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
